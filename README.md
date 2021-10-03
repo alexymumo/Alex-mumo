@@ -5,7 +5,6 @@
 - 👯 I’m looking for collaboration and opportunities on any android development project
 
 -->
-
 <center>
   <table>
   <tr>

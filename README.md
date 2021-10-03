@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-mumo&layout=compact&theme=tokyonight)](https://github.com/Alex-mumo/github-readme-stats)
 
-[!Visitor Count](https://profile-counter.glitch.me/{Alex-mumo}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 
 

@@ -8,7 +8,11 @@
   <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Alex-mumo&count_private=true&show_icons=true&theme=tokyonight&layout=compact"/></td>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-mumo&hide=html&layout=compact&theme=tokyonight"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-mumo&hide=html&layout=compact&theme=tokyonight"/></td>
+       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexxy&show_icons=true&theme=dark&layout=compact"/>
+    </td>
+
+      
   </tr>   
 </table>
 </center>

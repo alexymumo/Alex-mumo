@@ -3,6 +3,11 @@
 - 🔭 I’m currently working on Java, Kotlin, Python
 - 🌱 I’m currently learning Go
 - 👯 I’m looking for collaboration and opportunities on any android development project
+- 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 <center>
   <table>

@@ -4,12 +4,13 @@
 - 🔭 I’m currently working on Java, Kotlin, Python
 - 🌱 I’m currently learning Go
 - 👯 I’m looking for collaboration and opportunities on any android development project
-
- ### Languages
- <p align="center">
+- 
+### Languages
+<p align="center">
 <img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=java&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/Python-E56F08?style=for-the-badge&logo=python&logoColor=white">&nbsp;
 </p>
 
 <center>

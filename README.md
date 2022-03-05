@@ -1,13 +1,16 @@
-### Hi there 👋
-
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Alex Mumo</h1>
+<h3 align="center">A Software developer.</h3>
+<br>
 - 🔭 I’m currently working on Java, Kotlin, Python
 - 🌱 I’m currently learning Go
 - 👯 I’m looking for collaboration and opportunities on any android development project
-- 
+
+### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Golang](https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=white">&nbsp;
+![Java](https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=java&logoColor=white">&nbsp;
 
 <center>
   <table>

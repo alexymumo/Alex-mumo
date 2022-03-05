@@ -5,13 +5,12 @@
 - 🌱 I’m currently learning Go
 - 👯 I’m looking for collaboration and opportunities on any android development project
 
-<p align="center">
-[Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-[Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
-[Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-[Golang](https://img.shields.io/badge/-Golang-000?&logo=Golag)
-[Java](https://img.shields.io/badge/Java-000?&logo=Java)
- </p>
+ ### Languages
+ <p align="center">
+<img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=java&logoColor=white">&nbsp;
+</p>
 
 <center>
   <table>
